@@ -106,7 +106,69 @@ Handles patient registration, record maintenance, and patient information manage
 Facilitates appointment scheduling between doctors and patients while maintaining appointment records.
 
 ---
+## Screenshots
 
+### Patients Section
+
+![Patients Section](screenshots/Patients%20Section.png)
+
+### Doctors Section
+
+![Doctors Section](screenshots/Doctors%20Section.png)
+
+### Add Appointment Section
+
+![Add Appointment Section](screenshots/Add%20Appointment%20Section.png)
+
+### Adding Patient Details
+
+![Adding Patient Details](screenshots/Adding%20Patient's%20Details%20Section.png)
+
+### Adding Doctor Details
+
+![Adding Doctor Details](screenshots/Adding%20Doctor's%20Details.png)
+
+### Adding Appointment - Select Patient
+
+![Select Patient](screenshots/Adding%20An%20Appointment-choosing%20patients%20from%20patients%20lists.png)
+
+### Adding Appointment - Select Doctor
+
+![Select Doctor](screenshots/Adding%20An%20Appointment-choosing%20doctor%20from%20doctor's%20lists.png)
+
+### Adding Appointment - Select Date
+
+![Select Date](screenshots/Adding%20An%20Appointment-choosing%20date%20from%20calendar.png)
+
+### Appointment Added Successfully
+
+![Appointment Added](screenshots/After%20Adding%20An%20Appointment.png)
+
+### Edit Appointment
+
+![Edit Appointment](screenshots/Ater%20Editing%20The%20Appointment.png)
+
+### Delete Functionality
+
+![Delete Functionality](screenshots/Delete%20Button%20Functioning.png)
+
+### Appointment Deleted Successfully
+
+![Appointment Deleted](screenshots/After%20Deleting%20An%20Appointment.png)
+
+### Doctors Database
+
+![Doctors Database](screenshots/Doctor%20Database.png)
+
+### Patients Database
+
+![Patients Database](screenshots/Patients%20Database.png)
+
+### Appointment Database
+
+![Appointment Database](screenshots/Appointment%20Database.png)
+
+---
 ## REST API Endpoints
 
 ### Doctor APIs
