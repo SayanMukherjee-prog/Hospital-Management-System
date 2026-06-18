@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+/* styles.scss */
+@use "ngx-toastr/toastr";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@plugin "daisyui";
+
+
+
+.required:after {
+    content: " *";
+    color: red;
+}
